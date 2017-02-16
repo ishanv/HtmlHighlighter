@@ -1,0 +1,11 @@
+
+\color[AliceBlue]<html>
+\color[AntiqueWhite]<head>
+\color[Aqua]<title>HTML highlight test page</title>
+\color[AntiqueWhite]</head>
+\color[Aquamarine]<body>This is text in the body.
+\color[Azure]<br>
+\color[Beige]<h1>This is a heading</h1>
+\color[Bisque]<p>This is a paragraph.</p>
+\color[Aquamarine]There is more text in the body after the paragraph.</body>
+\color[AliceBlue]</html>

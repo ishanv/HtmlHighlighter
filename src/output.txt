@@ -1,0 +1,12 @@
+
+\color[AliceBlue]<HTML>
+\color[AntiqueWhite]<HEAD>
+\color[Aqua]<TITLE>Welcome to Capital One highlighter test</TITLE>
+\color[AntiqueWhite]</HEAD>
+\color[Aquamarine]<BODY>
+\color[Azure]<H1>Welcome to Capital One</H1>
+\color[Beige]<P>
+\color[Bisque]<A HREF="http://tech.capitalone.ca">Visit Our Blog</A>
+\color[Beige]</P>
+\color[Aquamarine]</BODY>
+\color[AliceBlue]</HTML>
